@@ -1,4 +1,4 @@
-![Project Banner](https://raw.githubusercontent.com/Anmolian/Data_Analysis_Facebook_API_Ads/Big_Data.jpg)
+![Project Banner](https://github.com/Anmolian/Data_Analysis_Facebook_API_Ads/blob/main/Big_Data.jpg?raw=true)
 # Data Analysis Facebook API Ads
 
 ## Technologies Used: PySpark, Pandas, Matplotlib, SQL
